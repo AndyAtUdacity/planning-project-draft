@@ -1,0 +1,50 @@
+{
+	"segments" : [
+		{
+			"id" : "0",
+			"num_lanes" : 4,
+			"lanes" : [
+				{
+					"id" : "0.0",
+					"lane_width" : 5.98,
+					"left_boundary" : "double_yellow",
+					"right_boundary" : "broken_white",
+					"exit_waypoint"  : "1.0.0",
+					"entry_waypoint" : "150.0.29",
+					"waypoints" : [
+						{
+							"id" : "0.0.0",
+							"x"  : 290.152,
+							"y"  : -115.210,
+						},
+						{
+							"id" : "0.0.1",
+							"x"  : 290.340,
+							"y"  : -115.211,
+						},
+					]
+				}
+
+			]
+		}
+	]
+}
+
+{
+	"waypoints" : [
+		{
+			"id"   : 0,
+			"x"  : 32.451,
+			"y"  : -18.923,
+			"lanes" : [
+				{
+					"id" : 0,
+					"wp_offset" : 2.91,
+					"left_boundary" : "double_yellow",
+					"right_boundary": "broken_white",
+					"width" : 5.82,
+				}
+			]
+		}
+	]
+}

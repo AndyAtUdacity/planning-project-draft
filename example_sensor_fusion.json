@@ -1,0 +1,70 @@
+{
+	"updated_at" : "2017-03-30T05:49:52.491",
+	"requested_at": "2017-03-30T05:49:52.494",
+	"vehicles" : [
+		{
+			"id"  : 201,
+			"x"   : 569.452,
+			"y"   : -491.229,
+			"v_x" : 20.002,
+			"v_y" : -14.981,
+			"sigma_x" : 0.249,
+			"sigma_y" : 0.249,
+			"sigma_v_x" : 1.408,
+			"sigma_v_y" : 1.408,
+			"current_lane_id" : 0,
+			"leading_vehicle_ids" : [
+				{
+					"lane_id" : 0,
+					"vehicle_id" : 192,
+				},
+				{
+					"lane_id" : 1,
+					"vehicle_id" : null,
+				}
+			],
+			"following_vehicle_ids" : [
+				{
+					"lane_id" : 0,
+					"vehicle_id" : null,
+				},
+				{
+					"lane_id" : 1,
+					"vehicle_id" : null,
+				}
+			],
+		},
+		{
+			"id"  : 192,
+			"x"   : 569.452,
+			"y"   : -491.229,
+			"v_x" : 20.002,
+			"v_y" : -14.981,
+			"sigma_x" : 0.249,
+			"sigma_y" : 0.249,
+			"sigma_v_x" : 1.408,
+			"sigma_v_y" : 1.408,
+			"current_lane_id": 0,
+			"leading_vehicle_ids" : [
+				{
+					"lane_id" : 0,
+					"vehicle_id" : null,
+				},
+				{
+					"lane_id" : 1,
+					"vehicle_id" : null,
+				}
+			],
+			"following_vehicle_ids" : [
+				{
+					"lane_id" : 0,
+					"vehicle_id" : 201,
+				},
+				{
+					"lane_id" : 1,
+					"vehicle_id" : null,
+				}
+			],
+		}
+	]
+}
