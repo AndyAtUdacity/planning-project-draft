@@ -8,7 +8,7 @@ This is the most uncertain of the files here. Disregard for now.
 
 **`example_sensor_fusion.json`**
 
-An example of what the data that simulates sensor fusion output. Note that it includes the state of all nearby vehicles as well as current lane and the identity of any vehicles which are leading or following each vehicle (including on adjacent lanes).
+An example of the data that simulates sensor fusion output. Note that it includes the state of all nearby vehicles as well as current lane and the identity of any vehicles which are leading or following each vehicle (including on adjacent lanes).
 
 **`example_localization.json`**
 
