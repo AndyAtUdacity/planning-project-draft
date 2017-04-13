@@ -1,0 +1,10 @@
+{
+	"lane_id" : 0,
+	"target_speed" : 20.0,
+	"reach_target_within" : {
+		"delta_s" : 100,
+		"delta_t" : 10.0,
+	},
+	"NOTE_TO_SELF" : "leading target id can be null to indicate lane 
+	keeping in empty lane."
+}

@@ -1,0 +1,25 @@
+{
+	"vehicles" : [
+		{
+			"id" : 0,
+			"length" : 3.4,
+			"width" : 1.5,
+			"predictions" : [
+				{
+					"s" : 1.7,
+					"d" : 0.0,
+					"yaw": 0.0,
+					"timestamp" : "",
+					"lane_id": 0,
+				},
+				{
+					"s" : 2.7,
+					"d" : 0.0,
+					"yaw": 0.0,
+					"timestamp" : "",
+					"lane_id": 0,
+				},
+			],
+		}
+	]
+}
