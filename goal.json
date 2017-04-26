@@ -1,0 +1,6 @@
+{
+	"lane_id" : 23049,
+	"s" : 8347.2,
+	"d" : 0.0, 
+	"note" : "d may be different if we are using the center lane as d=0 for all other lanes."
+}
